@@ -1,0 +1,18 @@
+﻿l_english:
+ 
+ bba_AFA_skilled_desert_warriors:0 "Războinici pricepuți în războiul în deșert"
+ bba_AFA_skilled_desert_warriors_desc:0 "Războinicii Afar au fost întotdeauna cunoscuți pentru îndemânarea lor înverșunată în lupta în deșert și, datorită acestui fapt și a terenului aspru al deșertului Danakil, Aussa a reușit să evite anexarea de către imperiul etiopian atât de mult timp."
+ HOA_state_bank_idea:0 "Banca de stat a [ROOT.GetNameDef]"
+ HOA_state_funded_projects_idea:0 "Proiecte cu finanțare de stat"
+ HOA_improved_irregulars_idea:0 "Tactici neregulate îmbunătățite"
+ HOA_every_man_a_warrior_idea:0 "Fiecare om un războinic"
+ HOA_our_finest_idea:0 "Cele mai bune noastre"
+ HOA_our_strength_idea:0 "Punctele forte ale oamenilor [ROOT.GetAdjective]."
+ HOA_education_idea:0 "Educație îmbunătățită"
+ HOA_volunteers_idea:0 "Forța de voluntari [ROOT.GetAdjective]."
+ HOA_jagged_alliance_idea:0 "Siguranța în alianțe"
+ HOA_rallying_the_people_idea:0 "Adunarea Poporului"
+ HOA_rightfully_ours_idea:0 "Recuperarea Imperiului"
+
+
+

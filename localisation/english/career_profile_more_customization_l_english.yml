@@ -1,0 +1,229 @@
+﻿l_english:
+# Career Profile
+ CAREER_PROFILE_INCOMPATIBLE_PLATFORM_MS:1 "Puteți vizualiza doar alți jucători din contul Microsoft"
+ CAREER_PROFILE_INCOMPATIBLE_PLATFORM_STEAM:1 "Puteți vedea doar alți jucători Steam"
+ CAREER_PROFILE_INCOMPATIBLE_PLATFORM_GENERIC:0 "Nu puteți vedea alți jucători pe această platformă"
+
+# Statistics Tab
+ CAREER_PROFILE_COMPARE_STATS_LABEL:0 "Comparați cu statisticile dvs"
+ CAREER_PROFILE_DROPDOWN_ALL_MODES:0 "Toate modurile"
+ CAREER_PROFILE_DROPDOWN_SINGLE_PLAYER:0 "Un singur jucator"
+ CAREER_PROFILE_DROPDOWN_MULTIPLAYER:0 "Multiplayer"
+
+ CAREER_PROFILE_COMPARE_STATS_VALUE_TOOLTIP:0 "Aveți: $VALUE$\nDiferență: $DIFFERENCE$"
+ CAREER_PROFILE_COMPARE_HOURS:0 "$VALUE|Y*$ ore"
+ CAREER_PROFILE_COMPARE_DAYS:0 "$VALUE|Y*$ zile"
+ CAREER_PROFILE_COMPARE_MONTHS:0 "$VALUE|Y*$ luni"
+ CAREER_PROFILE_COMPARE_YEARS:0 "$VALUE|Y*$ ani"
+ CAREER_PROFILE_COMPARE_HOURS_DIFFERENCE:0 "$VALUE|=+*$ ore"
+ CAREER_PROFILE_COMPARE_DAYS_DIFFERENCE:0 "$VALUE|=+*$ zile"
+ CAREER_PROFILE_COMPARE_MONTHS_DIFFERENCE:0 "$VALUE|=+*$ luni"
+ CAREER_PROFILE_COMPARE_YEARS_DIFFERENCE:0 "$VALUE|=+*$ ani"
+ CAREER_PROFILE_COMPARE_STATS_VALUE_POSITIVE_TOOLTIP:0 "Aveți: $VALUE|Y*$\nDiferență: $DIFFERENCE|=+*$"
+ CAREER_PROFILE_COMPARE_STATS_VALUE_POSITIVE_TOOLTIP_NO_SI_PREFIX:0 "Aveți: $VALUE|Y$\nDiferență: $DIFFERENCE|=+$"
+ CAREER_PROFILE_COMPARE_STATS_VALUE_NEGATIVE_TOOLTIP:0 "Aveți: $VALUE|Y*$\nDiferență: $DIFFERENCE|=-*$"
+ CAREER_PROFILE_COMPARE_STATS_VALUE_PERCENTAGE_TOOLTIP:0 "Ai: $VALUE|Y1%$\nDiferență: $DIFFERENCE|=+1%$"
+
+ CAREER_PROFILE_STAT_PLAIN_NUMBER:0 "$VALUE|*$"
+ CAREER_PROFILE_STAT_PLAIN_NUMBER_NO_SI_PREFIX:0 "$VALUE$"
+ CAREER_PROFILE_STAT_PLAIN_NUMBER_NO_SI_PREFIX_MORE_THAN:0 ">$VALOARE|*$"
+ CAREER_PROFILE_STAT_PERCENTAGE:0 "$VALUE|1%$"
+
+ CAREER_PROFILE_BEFORE_1940:0 "Înainte de 1940"
+ CAREER_PROFILE_1940_TO_1944:0 "1940-1944"
+ CAREER_PROFILE_1945_AND_LATER:0 "1945 și mai târziu"
+
+# Awards tab
+ CAREER_PROFILE_PRODUCTION_IS_POWER_BRONZE:0 "§H50§! fabrici"
+ CAREER_PROFILE_PRODUCTION_IS_POWER_SILVER:0 "§H250§! fabrici"
+ CAREER_PROFILE_PRODUCTION_IS_POWER_GOLD:0 "§H500§! fabrici"
+ CAREER_PROFILE_QUALITY_OVER_QUANTITY_BRONZE:0 "§H1.5:1§! raport"
+ CAREER_PROFILE_QUALITY_OVER_QUANTITY_SILVER:0 "§H3:1§! raport"
+ CAREER_PROFILE_QUALITY_OVER_QUANTITY_GOLD:0 "§H5:1§! raport"
+
+# Profile Picture Tab
+ CAREER_PROFILE_BADGE_TAB_LABEL:0 "Insigna"
+ CAREER_PROFILE_TOOLTIP_BACKGROUND_UNLOCKED:0 "Utilizați ca fundal de profil"
+ CAREER_PROFILE_TOOLTIP_BACKGROUND_LOCKED:0 "§b.§!\n\n\n£$ICON$£\n\n\n\n\n§b.§!\n$CERINȚA$" # The black . prevent the newlines from being trimmed
+ CAREER_PROFILE_PICTURES:0 "Poze de profil"
+ CAREER_PROFILE_BACKGROUNDS:0 "Fundaluri de profil"
+
+# Award Display
+ CAREER_PROFILE_EMPTY_MEDAL_SLOT_TOOLTIP:0 "Nicio medalie atribuită."
+ CAREER_PROFILE_EMPTY_MEDAL_SLOT_BUTTON_TOOLTIP:0 "Nu a fost atribuită nicio medalie.\n\nDați clic pentru a selecta o medalie de afișat aici."
+ CAREER_PROFILE_EMPTY_MEDAL_PICKER_ITEM_TITLE:0 "Nicio medalie"
+ CAREER_PROFILE_EMPTY_MEDAL_PICKER_ITEM_DESCRIPTION:0 "Selectați pentru a goli slotul."
+
+ CAREER_PROFILE_EMPTY_RIBBON_SLOT_TOOLTIP:0 "Nicio panglică alocată."
+ CAREER_PROFILE_EMPTY_RIBBON_SLOT_BUTTON_TOOLTIP:0 "Nicio panglică alocată.\n\nDați clic pentru a selecta o panglică de afișat aici."
+ CAREER_PROFILE_EMPTY_RIBBON_PICKER_ITEM_TITLE:0 "Fără panglică"
+ CAREER_PROFILE_EMPTY_RIBBON_PICKER_ITEM_DESCRIPTION:0 "Selectați pentru a goli slotul."
+
+# Log in
+ LOGIN_DESCRIPTION_FRIENDS_BOLD:0 "Conectează-te cu contul tău Paradox pentru a vedea statisticile prietenilor tăi"
+ LOGIN_DESCRIPTION_CUSTOMIZATION_BOLD:0 "Conectați-vă cu contul Paradox pentru a vă personaliza profilul"
+
+ CAREER_PROFILE_WRONG_ACCOUNT_POPUP_HEADER:0 "Cont PDX greșit?"
+ CAREER_PROFILE_WRONG_ACCOUNT_POPUP_MESSAGE:0 "V-ați conectat la un alt cont decât de obicei.\n Datele, statisticile și premiile dvs. nu vor fi urmărite"
+
+ CAREER_PROFILE_CLOUD_STORAGE_NOT_AVAILABLE_POPUP_HEADER:0 "Stocarea în cloud nu este disponibilă"
+ CAREER_PROFILE_CLOUD_STORAGE_NOT_AVAILABLE_POPUP_MESSAGE:0 "Datele, statisticile și premiile dvs. nu vor fi încărcate.\n Verificați-vă Steam Cloud."
+
+# Privacy switcher
+ CAREER_PROFILE_SWITCHER_PUBLIC:0 "Public"
+ CAREER_PROFILE_SWITCHER_PRIVATE:0 "Privat"
+ CAREER_PROFILE_SWITCHER_FRIENDS:0 "Prieteni"
+ CAREER_PROFILE_VISIBILITY:0 "Vizibilitatea profilului"
+
+# Chat
+ CHAT_ERROR_UNKNOWNSLASH:0 "Comandă necunoscută, tastați „/help” sau „/?” pentru a lista comenzi"
+ CHAT_ERROR_UNKNOWNCHANNELUSER:0 "Nu s-a putut găsi utilizatorul „$NAME$” în canalul actual"
+ CHAT_SLAP:0 "$FIRST$ îl plesnește pe $SECOND$ cu o mică armă nucleară"
+ CHAT_ERROR_SLAP_MISSINGARG:0 "Sintaxă nevalidă, așteptată: /slap <nume utilizator>"
+ CHAT_ERROR_ME_MISSINGARG:0 "Sintaxă nevalidă, așteptată: /me <mesaj>"
+ CHAT_ERROR_CREATE_MISSINGARG:0 "Sintaxă nevalidă, așteptată: /create <numele canalului>"
+ CHAT_ERROR_INVITE_MISSINGARG:0 "Sintaxă nevalidă, așteptată: /invite <nume utilizator>"
+ CHAT_ERROR_INVITE_NOTOPERATOR:0 "Numai creatorul canalului poate invita utilizatori"
+ CHAT_ERROR_INVITE_ALREADYTHERE:0 "Utilizatorul este deja pe canal"
+ CHAT_ERROR_KICK_MISSINGARG:0 "Sintaxă nevalidă, așteptată: /kick <nume utilizator>"
+ CHAT_ERROR_KICK_NOTOPERATOR:0 "Numai creatorul canalului poate să-i dea cu piciorul pe utilizatori"
+ CHAT_ERROR_KICK_NOTTHERE:0 "Utilizatorul nu este în canal"
+ CHAT_ERROR_WHISPER_MISSINGARG:0 "Sintaxă nevalidă, așteptată: /whisper <nume utilizator> <mesaj>"
+ CHAT_ERROR_REPLY_MISSINGARG:0 "Sintaxă nevalidă, așteptată: /reply <mesaj>"
+ CHAT_ERROR_REPLY_MISSINGUSER:0 "Niciun utilizator conectat la care să răspundă"
+ CHAT_ROLL:0 "$USER$ aruncă un d$DIE$, computerul spune „$NUMBER$”"
+ CHAT_YES:0 "da" # Used as $NUMBER$ in CHAT_ROLL if $DIE$ is 2
+ CHAT_NO:0 "Nu" # Used as $NUMBER$ in CHAT_ROLL if $DIE$ is 2
+ CHAT_BETWEEN_X_AND_Y:0 "Chat între $X$ și $Y$"
+ CHAT_YOUWEREBANNED:0 "Ai fost lovit de $OP$ de la $CHANNEL$"
+
+ # Medals
+ CAREER_PROFILE_MODERN_VERDUN:0 "Un Verdun modern"
+ CAREER_PROFILE_MODERN_VERDUN_DESCRIPTION:0 "Continuați o bătălie fără întrerupere pentru un anumit număr de zile."
+ CAREER_PROFILE_NEVERMINE_ME_MEDAL:0 "Să nu mă mine"
+ CAREER_PROFILE_NEVERMINE_ME_MEDAL_DESCRIPTION:1 "Obțineți peste 50% supremație navală din minele dintr-un anumit număr de zone maritime."
+ CAREER_PROFILE_QUALITY_OVER_QUANTITY:0 "Calitate peste cantitate"
+ CAREER_PROFILE_QUALITY_OVER_QUANTITY_DESCRIPTION:0 "Aveți un raport avantajos de pierderi după ce ați provocat cel puțin 1 milion de victime ale inamicului."
+ CAREER_PROFILE_BRAINS_AND_BRUTE_FORCE_MEDAL:0 "Creierul și forța brută"
+ CAREER_PROFILE_BRAINS_AND_BRUTE_FORCE_MEDAL_DESCRIPTION:0 "Descifrați un anumit număr de cifruri."
+ CAREER_PROFILE_I_AM_INEVITABLE:0 "I am Inevitable"
+ CAREER_PROFILE_I_AM_INEVITABLE_DESCRIPTION:0 "Câștigă cel puțin o provincie în fiecare săptămână pentru un anumit număr de săptămâni."
+ CAREER_PROFILE_FINESSE_IS_FASTER:0 "Finanța este mai rapidă"
+ CAREER_PROFILE_FINESSE_IS_FASTER_DESCRIPTION:0 "În timp ce decriptați un cifr, aveți un"Captură Cipher" operation result in more than a certain amount of days removed from its decryption."
+ CAREER_PROFILE_CARGO_EMBARGO:0 "Taxa de poprire"
+ CAREER_PROFILE_CARGO_EMBARGO_DESCRIPTION:0 "Embargați un anumit număr de Națiuni."
+ CAREER_PROFILE_PRODUCTION_IS_POWER:0 "Producția este Putere"
+ CAREER_PROFILE_PRODUCTION_IS_POWER_DESCRIPTION:0 "Construiți un anumit număr de noi fabrici civile sau militare."
+ CAREER_PROFILE_ENGINEERING_BEHEMOTH_MEDAL:0 "Behemoth de inginerie"
+ CAREER_PROFILE_ENGINEERING_BEHEMOTH_MEDAL_DESCRIPTION:1 "Proiectați un tanc cu o anumită valoare a blindajului și desfășurați cel puțin 1000 dintre ele pe teren."
+ CAREER_PROFILE_CASTLES_IN_THE_AIR_MEDAL:0 "Castele în aer"
+ CAREER_PROFILE_CASTLES_IN_THE_AIR_MEDAL_DESCRIPTION:1 "Proiectați un avion cu o anumită valoare de apărare aeriană și desfășurați cel puțin o aripă aeriană completă (100 de avioane)."
+
+ # Ribbons
+ CAREER_PROFILE_SYNTHETIC_SECURITY:0 "Securitate sintetică"
+ CAREER_PROFILE_SYNTHETIC_SECURITY_DESCRIPTION:0 "Obțineți peste 30 de unități de cauciuc din surse artificiale (rafinării sintetice)."
+ CAREER_PROFILE_SYNTHETIC_SECURITY_QUOTE:0 ""If the women in the factories stopped work for 20 minutes, the allies would lose the war."\n\n- French Field Marshal and Commander in Chief Joseph Joffre, WW1."
+ CAREER_PROFILE_RUBBER_BARON:0 "Baron de cauciuc"
+ CAREER_PROFILE_RUBBER_BARON_DESCRIPTION:0 "Controlați cel puțin 1000 de unități de cauciuc și aveți o economie închisă."
+ CAREER_PROFILE_RUBBER_BARON_QUOTE:0 ""...capture of the principal rubber producing areas of the Far East in 1942 eliminated the sources of 90 percent of the world's natural rubber production."\n\n- The Southern Economic Journal, January 1947"
+ CAREER_PROFILE_THE_TRUCK_WILL_ALWAYS_GET_THROUGH:0 "Camionul va trece mereu"
+ CAREER_PROFILE_THE_TRUCK_WILL_ALWAYS_GET_THROUGH_DESCRIPTION:0 "Peste 5000 de camioane de aprovizionare livrează armate."
+ CAREER_PROFILE_THE_TRUCK_WILL_ALWAYS_GET_THROUGH_QUOTE:0 ""They said that the bomber would always get through. But the trucks were already there."\n\n- Unknown"
+ CAREER_PROFILE_MARE_NOSTRUM:0 "Mare Nostrum"
+ CAREER_PROFILE_MARE_NOSTRUM_DESCRIPTION:0 "Obțineți supremația navală în cele șase regiuni maritime principale ale Mării Mediterane, dintre care cel puțin una este contestată."
+ CAREER_PROFILE_MARE_NOSTRUM_QUOTE:0 ""When I lost my rifle, the Army charged me 85 dollars. That is why in the Navy the Captain goes down with the ship."\n\n- Dick Gregory"
+ CAREER_PROFILE_BLITZ_THIS:0 "Blitz-o pe asta..."
+ CAREER_PROFILE_BLITZ_THIS_DESCRIPTION:0 "Alegeți apărarea elastică ca strategie preferată pentru general, mareșal sau țară."
+ CAREER_PROFILE_BLITZ_THIS_QUOTE:0 ""Pull back the lines like an archer drawing a bow, then release."\n\n- Unknown"
+ CAREER_PROFILE_SCORCHED_EARTH:0 "Pământ ars"
+ CAREER_PROFILE_SCORCHED_EARTH_DESCRIPTION:0 "Detonează căile ferate folosind"Pământ ars" feature to slow down enemy advances."
+ CAREER_PROFILE_SCORCHED_EARTH_QUOTE:0 ""..the enemy must not be left a single engine, a single railway car, not a single pound of grain or gallon of fuel."\n\n- Joseph Stalin, radio address, July 3, 1941"
+ CAREER_PROFILE_RULED_BY_FURNITURE:0 "Condus de Mobilier!"
+ CAREER_PROFILE_RULED_BY_FURNITURE_DESCRIPTION:0 "Nu aveți o singură persoană sau un set de oameni reprezentați pentru a fi la conducerea națiunii voastre."
+ CAREER_PROFILE_RULED_BY_FURNITURE_QUOTE:0 ""Worrying is like a rocking chair, it gives you something to do, but it gets you nowhere."\n\n- Old English proverb"
+ CAREER_PROFILE_THE_THOUSAND_YEAR_BOND:0 "Obligațiunea de o mie de ani"
+ CAREER_PROFILE_THE_THOUSAND_YEAR_BOND_DESCRIPTION:0 "Desfășoară o sută de batalioane de cavalerie sau cămilă."
+ CAREER_PROFILE_THE_THOUSAND_YEAR_BOND_QUOTE:0 ""A horse must be a bit mad to be a good cavalry mount, and its rider must be completely so."\n\n- Steven Pressfield"
+ CAREER_PROFILE_ROCKETS_REIGN:0 "Domnește rachetele"
+ CAREER_PROFILE_ROCKETS_REIGN_DESCRIPTION:0 "Construiți mai mult de 10 site-uri de rachete."
+ CAREER_PROFILE_ROCKETS_REIGN_QUOTE:0 ""The rocket worked perfectly except for landing on the wrong planet."\n\n- Wernher Von Braun"
+ CAREER_PROFILE_STEEL_AT_HIGH_SPEED:0 "Oțel la viteză mare"
+ CAREER_PROFILE_STEEL_AT_HIGH_SPEED_DESCRIPTION:0 "Implementați peste 4000 de tancuri cu o viteză maximă de peste 12 km/h."
+ CAREER_PROFILE_STEEL_AT_HIGH_SPEED_QUOTE:0 ""If everything seems under control, you're not going fast enough."\n\n- Mario Andretti"
+ CAREER_PROFILE_ORCHESTRA_OF_BOOM:0 "Orchestra lui Boom"
+ CAREER_PROFILE_ORCHESTRA_OF_BOOM_DESCRIPTION:0 "Desfășurați o divizie care conține cel puțin un batalion de"Inter", "Artilerie", "Artilerie cu rachete" and "Anticar", supported by a signal company."
+ CAREER_PROFILE_ORCHESTRA_OF_BOOM_QUOTE:0 "\n"A veritable crescendo of sounds, so continuous as to merge and blend into a single annihilating roar, the roar of a train in a tunnel magnified a millionfold."\n\n- Arnold D. Harvey"
+
+ # Statistics
+ CAREER_PROFILE_AIRSPACE_SUPERIORITY_RATING_LABEL:0 "Evaluarea de superioritate a spațiului aerian contestat"
+ CAREER_PROFILE_CIVILIAN_FACTORIES_BUILT_LABEL:0 "S-au construit fabrici civile"
+ CAREER_PROFILE_MILITARY_FACTORIES_BUILT_LABEL:0 "S-au construit fabrici militare"
+ CAREER_PROFILE_DOCKYARDS_BUILT_LABEL:0 "Șantiere navale construite"
+ CAREER_PROFILE_ROCKET_SITES_BUILT_LABEL:0 "Site-uri de rachete construite"
+ CAREER_PROFILE_LAND_DOCTRINE:0 "Doctrina terenului cel mai folosit"
+ CAREER_PROFILE_MOBILE_WARFARE_XP_LABEL:0 "Războiul mobil"
+ CAREER_PROFILE_SUPERIOR_FIREPOWER_XP_LABEL:0 "Putere de foc superioară"
+ CAREER_PROFILE_GRAND_BATTLEPLAN_XP_LABEL:0 "Marele plan de luptă"
+ CAREER_PROFILE_MASS_ASSAULT_XP_LABEL:0 "Asalt în masă"
+ CAREER_PROFILE_NAVAL_DOCTRINE:0 "Cea mai folosită doctrină navală"
+ CAREER_PROFILE_FLEET_IN_BEING_XP_LABEL:0 "Flota In Fiinta"
+ CAREER_PROFILE_TRADE_INTERDICTION_XP_LABEL:0 "Interdicția comerțului"
+ CAREER_PROFILE_BASE_STRIKE_XP_LABEL:0 "Lovitură de bază"
+ CAREER_PROFILE_AIR_DOCTRINE:0 "Doctrina aerului cel mai folosit"
+ CAREER_PROFILE_STRATEGIC_DESTRUCTION_XP_LABEL:0 "Distrugerea strategică"
+ CAREER_PROFILE_BATTLEFIELD_SUPPORT_XP_LABEL:0 "Asistență pe câmpul de luptă"
+ CAREER_PROFILE_OPERATIONAL_INTEGRITY_XP_LABEL:0 "Integritate operațională"
+ CAREER_PROFILE_MOST_USED_COMBAT_WIDTH_LABEL:0 "Lățimea cea mai folosită de luptă"
+
+ CAREER_PROFILE_MILITARY_PRODUCTION:0 "Producția militară"
+ CAREER_PROFILE_MILITARY_PRODUCTION_OTHER_LABEL:0 "Arme și echipamente"
+ CAREER_PROFILE_MILITARY_PRODUCTION_LAND_VEHICLES_LABEL:1 "Vehicule terestre"
+ CAREER_PROFILE_MILITARY_PRODUCTION_AIRCRAFT_LABEL:0 "Avioane"
+
+ CAREER_PROFILE_AIR_PRODUCTION:0 "Producția de avioane"
+ CAREER_PROFILE_FIGHTER_LABEL:0 "Luptători"
+ CAREER_PROFILE_CAS_LABEL:0 "Suport aerian apropiat"
+ CAREER_PROFILE_TACTICAL_BOMBER_LABEL:0 "Bombardiere tactice"
+ CAREER_PROFILE_NAVAL_BOMBER_LABEL:0 "Bombardiere navale"
+ CAREER_PROFILE_STRATEGIC_BOMBER_LABEL:0 "Bombardiere strategice"
+ CAREER_PROFILE_OTHER_LABEL:0 "Alte"
+
+ CAREER_PROFILE_TANK_PRODUCTION:0 "Producția de rezervoare"
+ CAREER_PROFILE_LIGHT_TANK_LABEL:0 "Tancuri ușoare"
+ CAREER_PROFILE_MEDIUM_TANK_LABEL:0 "Tancuri medii"
+ CAREER_PROFILE_HEAVY_TANK_LABEL:0 "Tancuri grele"
+ CAREER_PROFILE_SUPER_HEAVY_TANK_LABEL:1 "Tancuri super-grele"
+ CAREER_PROFILE_MODERN_TANK_LABEL:0 "Tancuri moderne"
+
+ CAREER_PROFILE_NAVAL_PRODUCTION:0 "Productie nava"
+ CAREER_PROFILE_SUBMARINE_LABEL:0 "Submarine"
+ CAREER_PROFILE_SCREENING_LABEL:0 "Screening Nave"
+ CAREER_PROFILE_CAPITAL_SHIP_LABEL:0 "Crucătoare grele și cuirasate"
+ CAREER_PROFILE_CARRIERS_LABEL:0 "Transportatorii"
+
+# Tooltips
+ CAREER_PROFILE_TRIGGER_DEPLOYED_TANKS_WITH_ARMOR_RATING:0 "$VALUE|0H$ tancuri cu $TOOLTIP_VALUE|0H$ de blindaj"
+ CAREER_PROFILE_TRIGGER_DEPLOYED_AIRPLANES_WITH_AIR_DEFENSE:0 "$VALUE|0H$ avioane cu $TOOLTIP_VALUE|0H$ apărare antiaeriană"
+ CAREER_PROFILE_TRIGGER_MINED_SEA_REGIONS:0 "$VALUE|0H$ regiuni maritime"
+ CAREER_PROFILE_TRIGGER_DECRYPTED_CIPHERS:0 "$VALUE|0H$ cifruri"
+ CAREER_PROFILE_TRIGGER_NATIONS:0 "$VALUE|0 H$ națiuni"
+ CAREER_PROFILE_TRIGGER_DAYS:0 "$VALUE|0H$ zile"
+ CAREER_PROFILE_TRIGGER_PROVINCE_GAINING_WEEKS:0 "$VALUE|0H$ săptămâni"
+ CAREER_PROFILE_TRIGGER_DECRYPTING_DAYS_SAVED:0 "$VALUE|0H$ zile salvate"
+
+# Backup Flavor Texts
+ CAREER_PROFILE_BACKUP_QUOTE_31:0 ""...many of us thought that we had never heard any more welcome sound than the deep roaring and crashing that started in at our rear."\n\n- Fritz Kreisler"
+ CAREER_PROFILE_BACKUP_QUOTE_32:0 ""Law! What do I care about the law? Aint I got the power?"\n\n- Cornelius Vanderbilt"
+
+# Batch 2
+ CAREER_PROFILE_GAME_TIME_LABEL:0 "Timp în joc"
+
+ CAREER_PROFILE_STAT_YEARS_MONTHS:0 "$YEARS$ ani, $MONTHS$ luni"
+ CAREER_PROFILE_STAT_YEARS_MONTHS_MORE:0 "$YEARS$ ani, $MONTHS$ luni în plus"
+ CAREER_PROFILE_STAT_YEARS_MONTHS_LESS:0 "$YEARS$ ani, $MONTHS$ luni mai puțin"
+
+# Countries
+# Countries in Profile Picture Tab, original loc key in comment
+ CAREER_PROFILE_COUNTRY_ETH:0 "Etiopia" # ETH_neutrality
+ CAREER_PROFILE_COUNTRY_ITA:0 "Italia" # ITA_fascism
+ CAREER_PROFILE_COUNTRY_SWI:0 "Elveţia" # SWI_democratic

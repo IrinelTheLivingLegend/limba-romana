@@ -1,0 +1,6 @@
+﻿l_english:
+ CHAT_USERJOINEDCHANNEL:0 "$NAME$ s-a alăturat."
+ CHAT_USERDISCONNECTED:0 "$NAME$ s-a deconectat."
+ CHAT_USERWASBANNED:0 "$NAME$ a fost interzis."
+ CHAT_USERLEFTCHANNEL:0 "$NAME$ a părăsit canalul."
+ CHAT_CHANNEL_GENERAL:0 "General"

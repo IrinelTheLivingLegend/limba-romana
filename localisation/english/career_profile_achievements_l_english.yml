@@ -1,0 +1,267 @@
+﻿l_english:
+#Friends view
+ MENU_BAR_FRIENDS:0 "Prieteni"
+ FRIENDS_VIEW_LOADING_FRIENDS_LIST:0 "Se încarcă lista de prieteni..."
+ FRIENDS_VIEW_LOADING_FRIENDS_LIST_FAILED:0 "Încărcarea nu a reușit, vă rugăm să încercați din nou mai târziu"
+ FRIENDS_VIEW_EMPTY_FRIENDS_LIST:0 "Lista ta de prieteni este goală"
+ FRIENDS_VIEW_NAME:0 "Nume:"
+ FRIENDS_VIEW_STATUS:0 "Stare:"
+ FRIENDS_VIEW_STATUS_ONLINE:0 "Pe net"
+ FRIENDS_VIEW_STATUS_OFFLINE:0 "Deconectat"
+ FRIENDS_VIEW_VIEW_FRIENDS_PROFILE:0 "VEZI PROFIL"
+ FRIENDS_VIEW_INVITE:0 "INVITĂ LA MP"
+ FRIENDS_VIEW_ERROR_TITLE:0 "A apărut o eroare"
+ FRIENDS_VIEW_ERROR_STEAM:0 "Asigurați-vă că clientul Steam rulează și reporniți jocul"
+
+ FRIENDS_LOAD_FRIEND_PROFILE:0 "Se încarcă profilul de carieră..."
+ FRIENDS_LOAD_FRIEND_PROFILE_FAILED:0 "Încărcarea nu a reușit, vă rugăm să încercați din nou mai târziu"
+
+# Friends career profile
+ CAREER_PROFILE_PRIVATE:0 "Această persoană a decis să-și păstreze profilul privat"
+ CAREER_PROFILE_OLD_VERSION:0 "Statisticile acestei persoane sunt dintr-o versiune mai nouă a jocului\nVă rugăm să actualizați jocul pentru a vedea statisticile acesteia"
+
+# Log in to PDX
+ LOGIN_HEADER:0 "Conectați-vă la contul PDX"
+ LOGIN_MESSAGE:0 "Conectați-vă la contul PDX pentru a vedea lista de prieteni"
+ LOGIN_USERNAME:0 "Nume de utilizator"
+ LOGIN_PASSWORD:0 "Parola"
+ LOGIN_FORGOT:0 "Ți-ai uitat acreditările?"
+
+# Header
+ CAREER_PROFILE_YOU:0 "Tu"
+ CAREER_PROFILE_CAREER_POINTS:0 "$PUNCTE|H$"
+ CAREER_PROFILE_CAREER_POINTS_LABEL:0 "§HCareer points§!"
+ CAREER_PROFILE_HEADER_DISCLAIMER:0 "Utilizarea comenzilor din consolă și a majorității modurilor va împiedica urmărirea premiilor"
+
+# Career Profile tab
+ CAREER_PROFILE_DROPDOWN_BASEGAME:0 "Joc de bază"
+ CAREER_PROFILE_DROPDOWN_MODS:0 "Moduri"
+ CAREER_PROFILE_LOADING:0 "Se încarcă profilul de carieră..."
+ CAREER_PROFILE_LOADING_FAILED:0 "Încărcarea nu a reușit, vă rugăm să încercați din nou mai târziu"
+ CAREER_PROFILE_BEST_IN_CAREER_TOOLTIP:0 "Cel mai bun din carieră"
+
+#Playthrough overview
+ PLAYTHROUGH_OV_NOT_ELIGIBLE:0 "Jocul dvs. nu este eligibil pentru medalii și panglici din cauza utilizării modurilor sau comenzilor consolei"
+ PLAYTHROUGH_OV_MP:0 "Statisticile nu sunt urmărite în multiplayer"
+ PLAYTHROUGH_OV_MP_AWARDS:0 "Medaliile și panglicile nu vor fi acordate în jocurile multiplayer"
+
+# Awards tab
+ CAREER_PROFILE_AWARD_TAB_LABEL:0 "Premii"
+
+ CAREER_PROFILE_AWARD_NOT_ACHIEVED:0 "Nu este premiat"
+ CAREER_PROFILE_AWARD_ACHIEVED:0 "Premiat $DATE|H$"
+ CAREER_PROFILE_COLLECT_AWARD:0 "Colectarea"
+
+ CAREER_PROFILE_MOD_ACHIEVEMENT_AVAILABLE_WHEN:0 "Va fi disponibil când:"
+
+ CAREER_PROFILE_MEDALS:0 "Medalii"
+ CAREER_PROFILE_MEDAL_TOOLTIP:0 "$NAME$\n\n$DESCRIPTION$\n\n$CAREER_PROFILE_MEDAL_TOOLTIP_BRONZE$\n$CAREER_PROFILE_MEDAL_TOOLTIP_SILVER$\n$CAREER_PROFILE_MEDAL_TOOLTIP_GOLD$\n\n$ACHIEVED_STAT"
+ CAREER_PROFILE_MEDAL_TOOLTIP_BRONZE:1 "$BRONZE_PREFIX$ §8BRONZE§!: $BRONZE_REQUIREMENT$ (§H$BRONZE_POINTS$ puncte§!)"
+ CAREER_PROFILE_MEDAL_TOOLTIP_SILVER:1 "$SILVER_PREFIX$ Argint: $SILVER_REQUIREMENT$ (§H$SILVER_POINTS$ puncte§!)"
+ CAREER_PROFILE_MEDAL_TOOLTIP_GOLD:1 "$GOLD_PREFIX$ §YGold§!: $GOLD_REQUIREMENT$ (§H$GOLD_POINTS$ puncte§!)"
+ CAREER_PROFILE_MEDAL_TOOLTIP_PREFIX_YES:0 "£trigger_yes£"
+ CAREER_PROFILE_MEDAL_TOOLTIP_PREFIX_NO:0 "£punct_alb£"
+
+ CAREER_PROFILE_TRIGGER_ATTACKS:0 "$VALUE|0H$ atacuri"
+ CAREER_PROFILE_TRIGGER_BONUS_PERCENT:0 "§H$VALUE|0$%§! primă"
+ CAREER_PROFILE_TRIGGER_DIVISIONS:0 "$VALUE|0H$ divizii"
+ CAREER_PROFILE_TRIGGER_MODIFIERS:0 "$VALUE|0H$ modificatori"
+ CAREER_PROFILE_TRIGGER_REGIONS:0 "$VALUE|0H$ regiuni"
+ CAREER_PROFILE_TRIGGER_SUPPLIES:0 "$VALUE|0H$ provizii"
+ CAREER_PROFILE_TRIGGER_AIRPLANES:0 "$VALUE|0H$ avioane"
+
+ # Special medal tooltips
+ CAREER_PROFILE_LAND_ACQUISITION_MEDAL_BRONZE:0 "§H5§! provincii"
+ CAREER_PROFILE_LAND_ACQUISITION_MEDAL_SILVER:0 "§H10§! provincii"
+ CAREER_PROFILE_LAND_ACQUISITION_MEDAL_GOLD:0 "§H15§! provincii"
+
+ CAREER_PROFILE_RIBBONS:0 "Panglici"
+ CAREER_PROFILE_RIBBON_TOOLTIP:0 "$NAME$\n\n$DESCRIERE$\n\n§H$PUNCTE PANGANȚĂ$ puncte§!\n\și $STAREA ATINGUT$"
+
+ # Statistics
+ CAREER_PROFILE_OFFENSIVE_BATTLES_LABEL:0 "Bătălii ofensive"
+ CAREER_PROFILE_DEFENSIVE_BATTLES_LABEL:0 "Bătălii defensive"
+ CAREER_PROFILE_TOTAL_BATTLES_LABEL:0 "Numărul total de bătălii"
+ CAREER_PROFILE_OFFENSIVE_BATTLES_RATIO_LABEL:0 "Raportul bătăliilor ofensive"
+ CAREER_PROFILE_BATTLES_AGAINST_ENCIRCLED_LABEL:0 "Bătălii împotriva încercuit"
+ CAREER_PROFILE_BATTLES_AGAINST_ENCIRCLED_RATIO_LABEL:0 "Lupte împotriva raportului încercuit"
+ CAREER_PROFILE_BATTLES_WITH_AIR_SUPPORT_LABEL:0 "Lupte cu sprijinul aerian"
+ CAREER_PROFILE_BATTLES_WITH_AIR_SUPPORT_RATIO_LABEL:0 "Lupte cu raportul de sprijin aerian"
+ CAREER_PROFILE_YEARS_AT_WAR_LABEL:0 "Ani de război"
+ CAREER_PROFILE_PROVINCES_GAINED_LABEL:0 "Provincii câștigate"
+ CAREER_PROFILE_PROVINCES_LOST_LABEL:0 "Provinciile pierdute"
+ CAREER_PROFILE_PROVINCES_GAINED_PER_YEAR_LABEL:1 "Provincii estimate câștigate/pierdute pe an"
+ CAREER_PROFILE_DESIGNED_PLANES_LABEL:0 "Avioane proiectate"
+ CAREER_PROFILE_FIELD_OFFICERS_PROMOTED_LABEL:0 "Ofițerii de teren promovați la generali"
+ CAREER_PROFILE_SHIPS_SUNK_BY_MARITIME_LABEL:0 "Nave scufundate de bombardierele patrulei navale"
+ CAREER_PROFILE_MUSSOLINI_MISSIONS_LABEL:0 "Misiuni Mussolini finalizate"
+ CAREER_PROFILE_MIO_SIZE_UPS_LABEL: "Creșterea dimensiunii organizației industriale militare"
+ CAREER_PROFILE_SPECIAL_FORCES_DEPLOYED_LABEL: "Forțele speciale desfășurate"
+ CAREER_PROFILE_EQUIPMENT_SOLD_LABEL: "Unități de echipamente vândute pe piață"
+
+ # Medals
+ CAREER_PROFILE_STALWART_DEFENDER_MEDAL:1 "Apărător ferm"
+ CAREER_PROFILE_STALWART_DEFENDER_MEDAL_DESCRIPTION:1 "Apărați-vă cu succes împotriva unui anumit număr de atacuri inamice."
+ CAREER_PROFILE_SHIELD_MEDAL:1 "Scutul"
+ CAREER_PROFILE_SHIELD_MEDAL_DESCRIPTION:1 "Pune o divizie să atingă un anumit total de bonus defensiv."
+ CAREER_PROFILE_MILITARY_PLANNER_MEDAL:1 "Planificator militar"
+ CAREER_PROFILE_MILITARY_PLANNER_MEDAL_DESCRIPTION:1 "Puneți o divizie să atingă un anumit bonus procentual de planificare."
+ CAREER_PROFILE_COMBAT_EFFICIENCY_MEDAL:1 "Eficiența luptei"
+ CAREER_PROFILE_COMBAT_EFFICIENCY_MEDAL_DESCRIPTION:1 "Distrugeți un anumit număr de divizii care suferă de"Înconjurat" combat modifier."
+ CAREER_PROFILE_GRAND_ENCIRCLEMENT_MEDAL:1 "Marea încercuire"
+ CAREER_PROFILE_GRAND_ENCIRCLEMENT_MEDAL_DESCRIPTION:1 "Înconjurați un anumit număr de divizii inamice într-o provincie."
+ CAREER_PROFILE_MILITARY_MASTERY_MEDAL:1 "Măiestrie militară"
+ CAREER_PROFILE_MILITARY_MASTERY_MEDAL_DESCRIPTION:1 "Luați o luptă cu un anumit număr de modificatori pozitivi care afectează bătălia."
+ CAREER_PROFILE_TURNING_THE_TIDE_MEDAL:1 "Întoarcerea valului"
+ CAREER_PROFILE_TURNING_THE_TIDE_MEDAL_DESCRIPTION:1 "În timpul războiului, desfășurați un anumit număr de divizii militare într-o fereastră de 48 de ore. Dimensiunea minimă a diviziei: 5 batalioane."
+ CAREER_PROFILE_LORD_OF_THE_SEAS_MEDAL:1 "Domnul mărilor"
+ CAREER_PROFILE_LORD_OF_THE_SEAS_MEDAL_DESCRIPTION:1 "Stabilirea supremației navale a cel puțin 75% într-un anumit număr de regiuni maritime contestate."
+ CAREER_PROFILE_VETERANCY_MEDAL:1 "Veteranie"
+ CAREER_PROFILE_VETERANCY_MEDAL_DESCRIPTION:1 "Aveți o armată formată dintr-un anumit număr de divizii de veterani."
+ CAREER_PROFILE_SKY_SUPPLIES_MEDAL:1 "Sky Supplies"
+ CAREER_PROFILE_SKY_SUPPLIES_MEDAL_DESCRIPTION:0 "Puneți ca avioanele de transport să ofere o anumită cantitate de aprovizionare unei regiuni."
+ CAREER_PROFILE_PARADROP_MEDAL:1 "Paradrop"
+ CAREER_PROFILE_PARADROP_MEDAL_DESCRIPTION:1 "Executați un plan de luptă de parașutism folosind un anumit număr de divizii de parașutiști. Dimensiunea minimă a diviziei: 5 batalioane."
+ CAREER_PROFILE_NAVAL_INVASION_MEDAL:1 "Invazie navală"
+ CAREER_PROFILE_NAVAL_INVASION_MEDAL_DESCRIPTION:1 "În 96 de ore, executați planuri de invazie navală folosind un anumit număr de divizii. Dimensiunea minimă a diviziei: 5 batalioane."
+ CAREER_PROFILE_LAND_ACQUISITION_MEDAL:1 "Achizitionarea de pamant"
+ CAREER_PROFILE_LAND_ACQUISITION_MEDAL_DESCRIPTION:1 "Prin bătălii terestre, câștigați (și mențineți) un anumit număr de provincii suplimentare într-o fereastră de 48 de ore."
+ CAREER_PROFILE_RAINING_DEBRIS_MEDAL:1 "Plouă resturi"
+ CAREER_PROFILE_RAINING_DEBRIS_MEDAL_DESCRIPTION:1 "Doborâți un anumit număr de avioane într-o fereastră de 48 de ore."
+
+ # Ribbons
+ CAREER_PROFILE_OFFENSE_IS_THE_BEST_DEFENSE:0 "Ofensiva este cea mai bună apărare"
+ CAREER_PROFILE_OFFENSE_IS_THE_BEST_DEFENSE_DESCRIPTION:1 "Pe parcursul a 2 ani, angajați-vă în bătălii ofensive de două ori mai multe decât bătălii defensive, cu un minim de 100 de bătălii."
+ CAREER_PROFILE_OFFENSE_IS_THE_BEST_DEFENSE_QUOTE:1 "\n"If you find yourself in a fair fight, you didn't plan your mission properly."\n\n- Colonel David Hackworth"
+ CAREER_PROFILE_GOING_THROUGH_NOT_AROUND:0 "Trecând prin Nu în jur"
+ CAREER_PROFILE_GOING_THROUGH_NOT_AROUND_DESCRIPTION:1 "Atacă și controlează cu succes o zonă cu un fort de nivel 10 în ea."
+ CAREER_PROFILE_GOING_THROUGH_NOT_AROUND_QUOTE:0 ""Out of every one hundred men, ten should not even be there, eighty are just targets, nine are real fighters, and we are lucky to have them, for they make the battle. Ah, but the one, the one is a warrior, and he will bring the others back."\n\n- The Cynic Epistles"
+ CAREER_PROFILE_YOU_SHALL_NOT_PASS:1 "Calea este închisă"
+ CAREER_PROFILE_YOU_SHALL_NOT_PASS_DESCRIPTION:1 "Atinge un bonus defensiv de 400%."
+ CAREER_PROFILE_YOU_SHALL_NOT_PASS_QUOTE:0 ""Combat isn't where you might die -- though that does happen -- it's where you find out whether you get to keep on living. Don't underestimate the power of that revelation. Don't underestimate the things young men will wager in order to play that game one more time."\n\n- Sebastian Junger, War"
+ CAREER_PROFILE_THOUSAND_SPLENDID_SUNS:0 "Mii de sori splendidi"
+ CAREER_PROFILE_THOUSAND_SPLENDID_SUNS_DESCRIPTION:1 "Detonează 3 bombe atomice într-o fereastră de 12 ore între detonări."
+ CAREER_PROFILE_THOUSAND_SPLENDID_SUNS_QUOTE:0 ""Hitherto man had to live with the idea of death as an individual; from now onward mankind will have to live with the idea of its death as a species."\n\n- Arthur Koestler"
+ CAREER_PROFILE_THE_GUNS_OF_AUGUST:0 "Armele din august"
+ CAREER_PROFILE_THE_GUNS_OF_AUGUST_DESCRIPTION:1 "Ai cel puțin 15 bătălii concomitente susținute de un bombardament cu arme feroviare."
+ CAREER_PROFILE_THE_GUNS_OF_AUGUST_QUOTE:0 ""It is easier to find men who will volunteer to die, than to find those who are willing to endure pain with patience."\n\n- Julius Caesar"
+ CAREER_PROFILE_LEARNING_ON_THE_JOB:0 "Învățarea la locul de muncă"
+ CAREER_PROFILE_LEARNING_ON_THE_JOB_DESCRIPTION:1 "Puneți unui comandant (excluzând comandanții de divizie) să-și mărească abilitățile de patru ori."
+ CAREER_PROFILE_LEARNING_ON_THE_JOB_QUOTE:0 ""It takes 15,000 casualties to train a major general."\n\n- Ferdinand Foch"
+ CAREER_PROFILE_THEY_CAME_FROM_ABOVE:1 "Au Venit De Sus"
+ CAREER_PROFILE_THEY_CAME_FROM_ABOVE_DESCRIPTION:1 "Execută un plan de parașut folosind 15 divizii de parașutiști."
+ CAREER_PROFILE_THEY_CAME_FROM_ABOVE_QUOTE:0 ""They sowed the wind, and now they are going to reap the whirlwind."\n\n- The Bible, Hosea 8th, Verse 7"
+ CAREER_PROFILE_COORDINATED_INVASION:0 "Invazie coordonată"
+ CAREER_PROFILE_COORDINATED_INVASION_DESCRIPTION:1 "Execută 4 invazii navale simultane pentru 4 zone de aterizare diferite."
+ CAREER_PROFILE_COORDINATED_INVASION_QUOTE:0 ""Battles are won by slaughter and manoeuvre. The greater the general, the more he contributes in manoeuvre, the less he demands in slaughter."\n\n- Winston S. Churchill, "Criza Mondială""
+ CAREER_PROFILE_NOT_SO_FAST:0 "Nu asa de repede"
+ CAREER_PROFILE_NOT_SO_FAST_DESCRIPTION:1 "Învinge o divizie inamică."
+ CAREER_PROFILE_NOT_SO_FAST_QUOTE:0 ""When the local language is violence, be fluent."\n\n- Unknown"
+ CAREER_PROFILE_TANKS_NO_THANKS:0 "Tancuri, nu. Mulțumesc"
+ CAREER_PROFILE_TANKS_NO_THANKS_DESCRIPTION:1 "Depășiți o divizie de tancuri inamice."
+ CAREER_PROFILE_TANKS_NO_THANKS_QUOTE:0 ""When all is said and done, a tank is a small steel box crammed with flammable or explosive substances which is easily converted into a mobile crematorium for its highly skilled crew."\n\n- Brigadier Shelford Bidwell"
+ CAREER_PROFILE_WE_SHALL_FIGHT_IN_THE_SHADE:0 "Vom lupta la umbră"
+ CAREER_PROFILE_WE_SHALL_FIGHT_IN_THE_SHADE_DESCRIPTION:1 "Implementați peste 5000 de aeronave într-o regiune a spațiului aerian."
+ CAREER_PROFILE_WE_SHALL_FIGHT_IN_THE_SHADE_QUOTE:0 ""Airplanes suffer from so many technical faults that it is only a matter of time before any reasonable man realizes that they are useless!"\n\n- Attributed to an article in "științific american", (1910)"
+ CAREER_PROFILE_ACES_HIGH:0 "Aces High"
+ CAREER_PROFILE_ACES_HIGH_DESCRIPTION:1 "Au 20 de ași să folosească același aeroport ca baza lor de origine."
+ CAREER_PROFILE_ACES_HIGH_QUOTE:1 ""The heavens are their battlefield. They are the Cavalry of the Clouds. "\n\n-David Lloyd George"
+ CAREER_PROFILE_BEHIND_ENEMY_LINES:0 "În spatele liniilor inamice"
+ CAREER_PROFILE_BEHIND_ENEMY_LINES_DESCRIPTION:0 "Preia controlul asupra capitalei inamice folosind un ordin de paradrop."
+ CAREER_PROFILE_BEHIND_ENEMY_LINES_QUOTE:0 ""We're paratroopers lieutenant. We are supposed to be surrounded."\n\n- Major Winters, Band of Brothers"
+
+# First Startup Splash Screen Text
+ SUB_MESSAGE_SPLASHSCREEN_TITLE:0 "Câștigă medalii și panglici pentru rezultate proeminente pe câmpul de luptă!"
+ SUB_MESSAGE_SPLASHSCREEN_DESC:0 "Medaliile și Panglicile sunt noi forme de provocări și premii care pot fi câștigate în jocurile non-ironman. Consultați lista din profilul dvs. de carieră și comparați-vă statisticile și medaliile cu prietenii. \n\n De asemenea, Profilul de carieră acceptă acum colectarea de statistici pentru modificări!"
+
+# Backup Flavor Texts
+ CAREER_PROFILE_BACKUP_QUOTE_01:0 ""I am the Flail of God. If you had not committed great sins, God would have not sent a punishment like me upon you."\n\n- Genghis Khan"
+ CAREER_PROFILE_BACKUP_QUOTE_02:0 ""There are three kinds of people: Those who are immovable, those who are moveable, and those who move them."\n\n- Attributed to Benjamin Franklin"
+ CAREER_PROFILE_BACKUP_QUOTE_03:1 ""...the men who quell the storm and ride the thunder."\n\n- Teddy Roosevelt"
+ CAREER_PROFILE_BACKUP_QUOTE_04:0 ""Hit the other fellow, as quick as you can, and as hard as you can, where it hurts him most, when he ain't lookin'."\n\n- Sir William Slim"
+ CAREER_PROFILE_BACKUP_QUOTE_05:1 ""When you go home tell them of us and say, for their tomorrow, we gave our today."\n\n- John Maxwell Edmonds"
+ CAREER_PROFILE_BACKUP_QUOTE_06:0 ""Anything worth fighting for is worth fighting dirty for."\n\n- Unknown"
+ CAREER_PROFILE_BACKUP_QUOTE_07:0 ""I'll come back as soon as I can with as much as I can. In the meantime, you've got to hold!"\n\n- Attributed to Douglas MacArthur"
+ CAREER_PROFILE_BACKUP_QUOTE_08:0 ""From somewhere the enemy artillery awoke and the shells came over- you could count them as they came. And then you couldn't count them; they fell in no regular order, one-two-three, but with a conscious knowledge of where we were- to left, to right, ahead, behind, crashing like enormous garbage cans heaved by gigantic men. The broken earth fell on us, the cracked rock spattered against the unbroken stone of the hillsides. The growing night was loud in our ears."\n\n- Alvah Bessie, Men in Battle: A Story of American in Spain (1939)"
+ CAREER_PROFILE_BACKUP_QUOTE_09:0 ""O where will you go when the blinding flash, scatters the seed of a million suns? And what will you do in the rain of ash? But how will it be when the blinding flash, disturbs your body's close-knit mesh, bringing to light your lovely bones? What will you wear in the rain of ash?"\n\n- Excerpt of "Colocviu terminal”, Charles Martin"
+ CAREER_PROFILE_BACKUP_QUOTE_10:0 ""Read over and over again the campaigns of Alexander, Hannibal, Caesar, Gustavus, Turenne, Eugene and Frederic. This is the only way to become a great general and master the secrets of the art of war."\n\n- Napoleon Bonaparte"
+ CAREER_PROFILE_BACKUP_QUOTE_11:0 ""I must study politics and war, that my sons may have the liberty to study mathematics and philosophy... in order to give their children the right to study painting, poetry, and music."\n\n- John Adams"
+ CAREER_PROFILE_BACKUP_QUOTE_12:0 ""An entire sea of water cannot sink a ship, unless it gets on the inside."\n\n- Unknown"
+ CAREER_PROFILE_BACKUP_QUOTE_13:0 ""Sail it like you stole it."\n\n- Unknown"
+ CAREER_PROFILE_BACKUP_QUOTE_14:0 ""They are so many, and we are so few, how are we going to bury them all?"\n\n- Finnish winter war expression"
+ CAREER_PROFILE_BACKUP_QUOTE_15:0 ""It takes a brave man to be a coward in the Red Army."\n\n- Joseph Stalin"
+ CAREER_PROFILE_BACKUP_QUOTE_16:0 ""Your name is unknown. Your deed is immortal."\n\n- Tomb of the Unknown Soldier"
+ CAREER_PROFILE_BACKUP_QUOTE_17:0 ""To die for the Emperor is to live forever."\n\n- Unknown"
+ CAREER_PROFILE_BACKUP_QUOTE_18:0 ""Sun Tzǔ said: In the practical art of war, the best thing of all is to take the enemy's country whole and intact; to shatter and destroy it is not so good."\n\n- Sun Tzu, The Art of War"
+ CAREER_PROFILE_BACKUP_QUOTE_19:0 ""All men are brothers, like the seas throughout the world; So why do winds and waves clash so fiercely everywhere?"\n\n- Hirohito"
+ CAREER_PROFILE_BACKUP_QUOTE_20:0 ""Facta non-Verba."\n\n- Latin for "Fapte nu vorbe"."
+ CAREER_PROFILE_BACKUP_QUOTE_21:0 ""War is life multiplied by some number that no one has ever heard of."\n\n- Sebastian Junger, War"
+ CAREER_PROFILE_BACKUP_QUOTE_22:0 ""The cause doesn't have to be righteous and battle doesn't have to be winnable; but over and over again throughout history, men have chosen to die in battle with their friends rather than to flee on their own and survive."\n\n- Sebastian Junger, War"
+ CAREER_PROFILE_BACKUP_QUOTE_23:0 ""The problem with fear, though, is that it isn't any one thing. Fear has a whole taxonomy—anxiety, dread, panic, foreboding—and you could be braced for one form and completely fall apart facing another."\n\n- Sebastian Junger, War"
+ CAREER_PROFILE_BACKUP_QUOTE_24:0 ""Civilians balk at recognizing that one of the most traumatic things about combat is having to give it up. War is so obviously evil and wrong that the idea there could be anything good to it almost feels like a profanity."\n\n- Sebastian Junger, War"
+ CAREER_PROFILE_BACKUP_QUOTE_25:0 ""Combat jammed so much adrenaline through your system that fear was rarely an issue; far more indicative of real courage was how you felt before the big operations, when the implications of losing your life really had a chance to sink in. My personal weakness wasn't fear so much as the anticipation of it."\n\n- Sebastian Junger, War"
+ CAREER_PROFILE_BACKUP_QUOTE_26:0 ""The Maginot Line is secured, the truce is agreed, and I have her promise not to invade Poland."\n\n- Ferdinand Foch"
+ CAREER_PROFILE_BACKUP_QUOTE_27:0 ""The only thing harder than getting a new idea into the military mind is to get an old one out."\n\n- Captain Sir Basil Liddell Hart, Thoughts on War, 1944."
+ CAREER_PROFILE_BACKUP_QUOTE_28:0 ""War is a lot of things and it's useless to pretend that exciting isn't one of them."\n\n- Sebastian Junger, War"
+ CAREER_PROFILE_BACKUP_QUOTE_29:0 ""Philosophers and Scientists have shown that adaptation is the secret of existence. History, however, is a catalogue of failures to change in time with the need. And armies, which because of their role should be the most adaptable of institutions, have been the most rigid - to the cost of the causes they upheld."\n\n- Captain Sir Basil Liddell Hart, Thoughts on War, 1944."
+ CAREER_PROFILE_BACKUP_QUOTE_30:0 ""Change typifies the modern world. You can either deal with change or it will deal with you."\n\n- General Gordon R. Sullivan."
+
+# Profile Picture Tab
+ CAREER_PROFILE_PROFILE_PICTURES:0 "Poze disponibile"
+ CAREER_PROFILE_TOOLTIP_POINTS:0 "Câștigați $VALUE|H$ puncte de carieră pentru a debloca"
+ CAREER_PROFILE_TOOLTIP_RIBBON:0 "Deblocat de $VALUE|H$ panglică"
+ CAREER_PROFILE_TOOLTIP_PICTURE_UNLOCKED:0 "Utilizați ca imagine de profil"
+ CAREER_PROFILE_TOOLTIP_PICTURE_LOCKED:0 "§b.§!\n\n£$ICON$£\n\n§b.§!\n\n$CERINȚA$" # The black . prevent the newlines from being trimmed
+
+# Countries in Profile Picture Tab, original loc key in comment
+ CAREER_PROFILE_COUNTRY_BUL:0 "Bulgaria" # BUL_neutrality
+ CAREER_PROFILE_COUNTRY_CHI:0 "China" # CHI_neutrality
+ CAREER_PROFILE_COUNTRY_CZE:0 "Cehoslovacia" # CZE_democratic
+ CAREER_PROFILE_COUNTRY_ENG:0 "Regatul Unit" # ENG_democratic
+ CAREER_PROFILE_COUNTRY_EST:0 "Republica Estonia" # EST_democratic
+ CAREER_PROFILE_COUNTRY_FRA:0 "Franţa" # FRA_democratic
+ CAREER_PROFILE_COUNTRY_GER:0 "Reich german" # GER_fascism
+ CAREER_PROFILE_COUNTRY_GRE:0 "Regatul Greciei" # GRE_neutrality
+ CAREER_PROFILE_COUNTRY_HOL:0 "Olanda" # HOL_democratic
+ CAREER_PROFILE_COUNTRY_JAP:0 "Japonia" # JAP_fascism
+ CAREER_PROFILE_COUNTRY_LIT:0 "Lituania" # LIT_neutrality
+ CAREER_PROFILE_COUNTRY_MEX:0 "Mexic" # MEX_neutrality
+ CAREER_PROFILE_COUNTRY_POL:0 "Polonia" # POL_neutrality
+ CAREER_PROFILE_COUNTRY_POR:0 "Portugalia" # POR_neutrality
+ CAREER_PROFILE_COUNTRY_RAJ:0 "Raj britanic" # RAJ_UK_neutrality
+ CAREER_PROFILE_COUNTRY_SOV:0 "Uniunea Sovietică" # SOV_communism
+ CAREER_PROFILE_COUNTRY_SPR:0 "Spania" # SPR_democratic
+ CAREER_PROFILE_COUNTRY_USA:0 "Statele Unite" # USA_democratic
+ CAREER_PROFILE_COUNTRY_YUG:0 "Iugoslavia" # YUG_neutrality
+
+### BATCH 2 ###
+ CAREER_PROFILE_FAILED_UPDATE_TITLE:0 "Actualizare esuata"
+ CAREER_PROFILE_FAILED_UPDATE_MSG:0 "Nu s-au actualizat datele profilului de carieră sau starea de confidențialitate, încercați din nou mai târziu"
+ CAREER_PROFILE_STEAM_NOT_RUNNING:0 "Profilul de carieră nu este disponibil când clientul Steam nu rulează"
+ CAREER_PROFILE_SWITCHER_TOOLTIP:0 "§HVizibilitatea profil§!\n\nSetat la"Public" if you want your profile to be visible to your friends, or turn it off to make it private."
+ CAREER_PROFILE_SHOW_IN_STORE:1 "Afișați mai multe"
+
+ # Statistics
+ CAREER_PROFILE_TOTAL_OWN_CASUALTIES_LABEL:0 "Victime proprii"
+ CAREER_PROFILE_ENEMY_CASUALTIES_LABEL:0 "Victime inamice"
+ CAREER_PROFILE_CASUALTIES_PER_WEEK_LABEL:0 "Victime pe săptămână"
+
+ # Playthrough overview
+ CAREER_PROFILE_END_GAME_TAB_LABEL:1 "Statistici"
+ CAREER_PROFILE_AWARDS_NOT_AVAILABLE_IN_MULTIPLAYER:0 "Premiile nu sunt disponibile în jocurile multiplayer"
+
+ # DLC promotion
+ BY_BLOOD_ALONE:0 "Numai prin sânge"
+ DLC_DESCRIPTION_dlc036:0 "Construiește un nou imperiu, rezistă agresiunii străine sau explorează limitele neutralității. By Blood Alone adaugă noi opțiuni alternative de istorie și varietate de joc pentru Italia, Etiopia și Elveția, precum și alte schimbări semnificative."
+ ARMS_AGAINST_TYRANNY: "Arme împotriva tiraniei"
+ DLC_DESCRIPTION_dlc038: "Scrieți istorii noi palpitante ale țărilor nordice, în timp ce marile puteri ale Europei luptă pentru viitorul lumii. Noi arbori National Focus pentru Finlanda, Suedia, Danemarca și Norvegia ocupă centrul scenei. Specializează-ți industria de arme pentru a sublinia eficiența și apoi vinde aceste arme pe noua piață internațională."
+
+ # Profile Picture Tab
+ CAREER_PROFILE_TOOLTIP_BRONZE:0 "Deblocat de bronzul $NAME|H$"
+ CAREER_PROFILE_TOOLTIP_SILVER:0 "Deblocat de argintiu $NAME|H$"
+ CAREER_PROFILE_TOOLTIP_GOLD:0 "Deblocat de aur $NAME|H$"
+ 
+ TRIAL_OF_ALLEGIANCE: "Procesul de loialitate"
+ DLC_OWNED_TEXT: "§GDețineți acest conținut!§!"
+ DLC_NOT_OWNED_TEXT: "§HFaceți clic pentru a vizita pagina magazinului pentru acest conținut.§!"
+ 

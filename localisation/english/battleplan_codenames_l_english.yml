@@ -1,0 +1,471 @@
+﻿l_english:
+ 
+ o_operation:0 "Operațiune"
+ o_unternehmen:0 "Urmăriți"
+ o_storm:0 "Furtună"
+ o_fox:0 "Vulpe"
+ ###Default Adjective
+ o_umbral:0 "Prag"
+ o_shadow:0 "Umbră"
+ o_sunlight:0 "Lumina soarelui"
+ o_starry:0 "Stea"
+ o_mountain:0 "Munte"
+ o_crescent:0 "Semilună"
+ o_active:0 "Activ"
+ o_joint:0 "Comun"
+ o_allied:0 "Aliat"
+ o_unified:0 "Unificat"
+ o_resolute:0 "Hotărât"
+ o_courageous:0 "Curajos"
+ o_dark:0 "Întuneric"
+ o_bright:0 "Luminos"
+ o_defiant:0 "Sfidător"
+ o_poised:0 "Echilibrat"
+ o_proud:0 "Mândru"
+ o_spotless:0 "Imaculat"
+ o_steel:0 "Oţel"
+ o_iron:0 "Fier"
+ o_bronze:0 "Bronz"
+ o_alpha:0 "Alfa"
+ o_beta:0 "Beta"
+ o_gamma:0 "Gamma"
+ o_reckless:0 "Nechibzuit"
+ o_stalwart:0 "Stăruitor"
+ o_red:0 "roșu"
+ o_green:0 "Verde"
+ o_orange:0 "Portocale"
+ o_blue:0 "Albastru"
+ o_ochre:0 "Ocru"
+ o_grey:0 "Gri"
+ o_purple:0 "Violet"
+ o_restless:0 "Neliniştit"
+ ###Default Noun
+ o_scimitar:0 "Sabie"
+ o_sword:0 "Sabie"
+ o_spirit:0 "Spirit"
+ o_wolf:0 "Lup"
+ o_panther:0 "Panteră"
+ o_slingshot:0 "Slingshot"
+ o_wind:0 "Vânt"
+ o_garden:0 "Grădină"
+ o_thunder:0 "Tunet"
+ o_rain:0 "Ploaie"
+ o_hail:0 "Grindină"
+ o_pegasus:0 "Pegasus"
+ o_star:0 "Stea"
+ o_apron:0 "Şorţ"
+ o_dome:0 "Dom"
+ o_homecoming:0 "Întoarcere acasă"
+ o_laser:0 "Laser"
+ o_default_operation:0 "Falangă"
+ o_phalanx:0 "Falangă"
+ o_resolve:0 "Rezolva"
+ o_heart:0 "inima"
+ o_support:0 "A sustine"
+ o_heat:0 "Căldură"
+ o_moon:0 "Luna"
+ o_oak:0 "Stejar"
+ o_ash:0 "Frasin"
+ o_fire:0 "Foc"
+ o_force:0 "Forta"
+ o_hill:0 "Deal"
+ o_river:0 "Râu"
+ o_eagle:0 "Vultur"
+ o_raptor:0 "Raptor"
+ o_hawk:0 "Şoim"
+ o_lion:0 "Leu"
+ o_tiger:0 "Tigru"
+ o_shield:0 "Scut"
+ ###German
+ o_barbarossa:0 "Compania Barbarossa"
+ o_fall_blau:0 "Carcasa Albastra"
+ o_fall_rot:0 "Fall Rot"
+ o_fall_gelb:0 "Carcasa galbena"
+ o_fall_braun:0 "Carcasă maro"
+ o_fall_weiss:0 "Fall Weiss"
+ o_seelowe:0 "Operațiunea Leul de Mare"
+ o_weserubung:0 "Compania de exerciții Weser"
+ o_fall_grun:0 "Carcasă verde"
+ o_merkur:0 "Compania Merkur"
+ o_marita:0 "Compania Marita"
+ o_herkules:0 "Compania Hercules"
+ o_silberfuchs:0 "Compania Silver Fox"
+ o_blaufuchs:0 "Compania Blaufuchs"
+ o_polarfuchs:0 "Compania Arctic Fox"
+ o_platinfuchs:0 "Compania Platinfuchs"
+ o_taifun:0 "Compania Typhoon"
+ o_zitadelle:0 "Compania Citadel"
+ o_herbstnebel:0 "Companie ceață de toamnă"
+ o_buffel:0 "Compania Buffalo"
+ o_sizilien:0 "Compania Sicilia"
+ o_birke:0 "Firma de mesteacan"
+ o_tanne_ost:0 "Compania Tanne Ost"
+ o_tanne_west:0 "Compania Tanne West"
+
+ o_wildente:0 "Wildente"
+ o_biene:0 "albina"
+ o_gneisenau:0 "Gneisenau"
+ o_granit:0 "Granit"
+ o_stahl:0 "Stahl"
+ o_scharnhorst:0 "Scharnhorst"
+ o_nebelubung:0 "Nebelübung"
+ o_eisen:0 "Să solicite"
+ o_festung:0 "fortăreață"
+ o_Geier:0 "Geier"
+ o_habicht:0 "şoim"
+ o_luchs:0 "râs"
+ o_morgenrote:0 "Zori"
+ o_grunpfeil:0 "Săgeată verde"
+
+ o_ikarus:0 "Compania Icarus" #Iceland
+ o_herbstreise:0 "Excursie de toamnă a companiei" #Scotland
+ o_kathleen:0 "Compania Kathleen" #Ireland
+
+ o_brandung:0 "Compania Surf" #Nafrica
+ o_skorpion:0 "Compania Scorpion" #Nafrica
+ o_aida:0 "Compania Aida" #Nafrica
+ o_capri:0 "Compania Capri" #Nafrica
+ o_theseus:0 "Compania Tezeu" #Nafrica
+ o_ochsenkopf:0 "Compania Ochsenkopf" #Nafrica
+ o_venezie:0 "Compania de la Venetia" #Nafrica
+ o_fruhlingswind:0 "Compania Vânt de primăvară" #Nafrica
+ o_ausladung:0 "Descărcare companie"
+ o_eilbote:0 "Firma de curierat"
+ o_fliederblute:0 "Compania Lilac Blossom"
+ o_kuckuksei:0 "Compania Kuckuksei"
+
+ o_beowulf:0 "Compania Beowulf" #baltics
+ o_doppelkopf:0 "Compania Doppelkopf" #baltics
+ o_laura:0 "Compania Laura" #baltics
+ o_haifisch:0 "rechin"
+ o_nordwind:0 "Vânt de nord"
+ o_schlussjagd:0 "Vânătoarea finală"
+ o_sturmflut:0 "Valul de furtună"
+ o_taube:0 "Taube"
+ o_siegfried:0 "Siegfried"
+ o_westwind:0 "Vânt de vest"
+
+ o_edelweiss:0 "Compania Edelweiss" #Caucasus
+ o_attika:0 "Compania Attica" #caucasus
+ o_bussard:0 "Compania Bussard" #Caucasus
+ o_herbstlaub:0 "Firma frunze de toamna" #caucasus
+ o_herbstzeitlose:0 "Compania Autumn Crocus" #caucasus
+ o_schamil:0 "Compania Shamil" #caucasus
+ o_clausewitz:0 "Compania Clausewitz" #caucasus
+ o_brunhild:0 "Compania Brunhild"
+ o_krimhilde:0 "Compania Krimhilde"
+ o_wikinger:0 "Compania Vikingi"
+
+ o_gisella:0 "Compania Gisella" # Iberia
+ o_ilona:0 "Compania Ilona" #Iberia
+ o_isabella:0 "Compania Isabella" #Iberia
+
+ o_maus:0 "Maus"
+ o_derfflinger:0 "Derfflenger"
+ o_moorbrand:0 "Moorbrand"
+ o_bettelstab:0 "Băț de cerșit"
+ o_blucher:0 "Blücher"
+ o_braunschweig:0 "Braunschweig"
+ o_bruckenschlag:0 "Clădire pod"
+ o_feuerzauber:0 "Compania Fire Magic" #Leningrad
+ o_nordlicht:0 "Compania Northern Lights" #Leningrad
+ o_sumpf:0 "Mlaștina companiei" #Leningrad
+ o_fredericus:0 "Frederick"
+ o_gertrud:0 "Compania Gertrude" #turkey
+ o_fischreiher:0 "Stârcii"
+ o_lichtschlag:0 "Lovitură ușoară"
+ o_nordpol:0 "polul Nord"
+ o_orkan:0 "Energia"
+ o_raubtier:0 "Prădător"
+ o_storfang:0 "Captură de sturioni"
+ o_taubenschlag:0 "Coteţ de porumbei"
+ o_trappenjagd:0 "Vanatoare de scari"
+ o_wiesengrund:0 "teren de luncă"
+ o_wintermarchen:0 "Basm de iarnă"
+ o_eisbar:0 "Urs polar"
+ o_lehrgang:0 "curs"
+ o_leopard:0 "Leopard"
+ o_michael:0 "Mihai"
+ o_poseidon:0 "Poseidon"
+ o_zwischenspiel:0 "Interludiu"
+ o_wintergewitter:0 "Wintergewitter"
+ o_aster:0 "Aster"
+ o_blei:0 "Scutec"
+ o_blume:0 "Blume"
+ o_fischfang:0 "pescuit"
+ o_ludwig:0 "Ludwig"
+ o_luttich:0 "Liège"
+ o_martin:0 "Martin"
+ o_morgenwind:0 "Morgenwind"
+ o_sonnenaufgang:0 "răsărit"
+ o_konrad:0 "Konrad"
+ o_fruhlingserwachen:0 "Compania Trezirea primăverii" #hungary
+ o_wacht_am_rhein:0 "Compania Wacht am Rhein"
+ o_schneeman:0 "Om de zapada"
+ o_sonnenwende:0 "Sonnenwende"
+ o_sudwing:0 "Vânt de sud"
+
+ o_ostwind:0 "vânt de est" #fictional below
+ o_wetzstein:0 "Wetzstein"
+ o_oderubung:0 "Oexercițiu"
+ o_donauubung:0 "Donauübung"
+ o_osterspaziergang:0 "Plimbare de Paște"
+ o_reibeisen:0 "răzătoare"
+ o_einbaum:0 "Un copac"
+ o_apfelbaum:0 "măr"
+ o_fuchsjagd:0 "vanatoare de vulpi"
+ o_bismarck:0 "Bismarck"
+ o_dorffest:0 "Sărbătoarea satului"
+ o_gelandemarsch:0 "Marș de cros"
+ o_freiherr:0 "Baron"
+ o_deichgraf:0 "Deichgraf"
+ o_heimfahrt:0 "excursie acasă"
+ o_heimspiel:0 "Joc acasă"
+ o_hasenjagd:0 "Vânătoare de iepuri"
+ o_ingwer:0 "Ghimbir"
+ o_jahreswechsel:0 "Anul Nou"
+ o_kannonenkugel:0 "Kannonenkugel"
+ o_lastkahn:0 "şlep"
+ o_mondschein:0 "Vorbe de clacă"
+ o_neuland:0 "Teritoriu nou"
+ o_ofenrohr:0 "Ofenrohr"
+ o_pistole:0 "Pistol"
+ o_ruckreise:0 "Călătoria de întoarcere"
+ o_sandbank:0 "Banc de nisip"
+ o_tankwart:0 "Tankwart"
+ o_vogelsang:0 "Cântecul păsărilor"
+ o_winkel:0 "Magazin"
+ o_zebra:0 "Zebră"
+
+
+ ###Soviet Union
+ o_operatsiya:0 "Operațiune"
+ o_bagration:0 "Operațiunea Bagration"
+ o_suvorov:0 "Operațiunea Suvorov"
+ o_iskra:0 "Operațiunea Spark"
+ o_lyuban:0 "Operațiunea Luban"
+ o_sinyavino:0 "Operațiunea Sinyavino"
+ o_mars:0 "Operațiunea Marte"
+ o_jupiter:0 "Operațiunea Jupiter"
+ o_kutuzov:0 "Operațiunea Kutuzov"
+ o_polar_star:0 "Operațiunea North Star"
+ o_belgrade_strategic_offensive:0 "Belgrad"
+ o_berlin_strategic_offensive:0 "Berlin"
+ o_ring:0 "Operațiunea Ring"
+ o_saturn:0 "Operațiunea Saturn"
+ o_uranus:0 "Operațiunea Uranus"
+ o_samland:0 "Operațiunea Samland"
+ o_mercury:0 "Operațiunea Mercur"
+ o_venus:0 "Operațiunea Venus"
+ o_neptune:0 "Operațiunea Neptun"
+ o_maly_saturn:0 "Operațiunea Micul Saturn"
+ o_maly_neptun:0 "Operațiunea Micul Neptun"
+ o_kontsert:0 "Operațiunea Concert"
+ o_rumyantsev:0 "Comandantul operațiunii Rumyantsev"
+ o_strat_offensive_ru:0 "Operațiune ofensivă strategică"
+ o_strat_defensive_ru:0 "Operațiune strategică defensivă"
+ o_strat_naval_ru:0 "Operațiune strategică de aterizare"
+ o_strat_offensive_default:0 "Operațiune ofensivă"
+ o_strat_defensive_default:0 "Ordin de apărare"
+ o_strat_naval_default:0 "Operațiunea de aterizare"
+ ###Japan
+ o_ichi:0 "Acest"
+ o_ni:0 "În"
+ o_san:0 "San"
+ o_yon:0 "A"
+ o_ko:0 "Este"
+ o_roku:0 "An"
+ o_nana:0 "Nana"
+ o_hachi:0 "Hachi"
+ o_kyu:0 "Kyu"
+ o_ju:0 "da"
+ o_ju_ichi:0 "copac 1"
+ o_ju_ni:0 "S-a terminat"
+ o_ju_san:0 "Tu San"
+ o_ju_yon:0 "Ju One"
+ o_ju_ko:0 "Nu"
+ o_ju_roku:0 "Ju Roku"
+ o_ju_hachi:0 "copac 8"
+ o_ju_kyu:0 "Itsuki Kyu"
+ o_ni_ju:0 "În evreu"
+ o_ni_ju_ichi:0 "Neige 1"
+ o_ni_ju_ni:0 "In-Ju In"
+ o_ni_ju_san:0 "In-Ju San"
+ o_ni_ju_yon:0 "Neige 4"
+ o_ni_ju_ko:0 "În-Judecător Nu"
+ o_ni_ju_roku:0 "Ni-Ju Roku"
+ o_ni_ju_hachi:0 "Neige 8"
+ o_ni_ju_kyu:0 "Neige Kyu"
+ o_san_ju:0 "San-Tu"
+ o_san_ju_ichi:0 "San-ki 1"
+ o_san_ju_ni:0 "Se plătește mai mult"
+ o_san_ju_san:0 "San-Yu San"
+ o_san_ju_yon:0 "San-Ju One"
+ o_san_ju_ko:0 "domnule Itsukiko"
+ o_san_ju_roku:0 "San-Yu Roku"
+ o_san_ju_hachi:0 "San-ki 8"
+ o_san_ju_kyu:0 "San-ki Kyu"
+ o_yon_ju:0 "One-Ju"
+ o_yon_ju_ichi:0 "Yonju Ichi"
+ o_yon_ju_ni:0 "4-La copac"
+ o_yon_ju_san:0 "One-Ju San"
+ o_yon_ju_yon:0 "One-Ju One"
+ o_yon_ju_ko:0 "4-Itsukiko"
+ o_yon_ju_roku:0 "Yonju Roku"
+ o_yon_ju_hachi:0 "Yonju Hachi"
+ o_yon_ju_kyu:0 "4-Kyu Kyu"
+ o_roku_ju:0 "Roku-Ju"
+ o_roku_ju_ichi:0 "Rokuju Ichi"
+ o_roku_ju_ni:0 "Roku-Ju Ni"
+ o_roku_ju_san:0 "Roku-Ju San"
+ o_roku_ju_yon:0 "Rokuju Yon"
+ o_roku_ju_ko:0 "6-Itsukiko"
+ o_roku_ju_roku:0 "Roku-Ju Roku"
+ o_roku_ju_hachi:0 "Rokuju Hachi"
+ o_roku_ju_kyu:0 "6-Kyu Itsuki"
+ o_go:0 "-Merge"
+ o_fu:0 "F U"
+ o_ai:0 "un eu"
+ o_e:0 "ȘI"
+ o_b:0 "B"
+ o_de:0 "D E"
+ o_l:0 "L"
+ o_t:0 "T"
+ o_sr:0 "S R"
+ o_m:0 "M"
+ o_al:0 "A L"
+ o_d:0 "D"
+ o_j:0 "J"
+ o_fs:0 "F S"
+ o_mo:0 "M O"
+ o_ry:0 "R Y"
+ o_mi:0 "M I"
+ ###USA
+ o_bold:0 "Îndrăzneţ"
+ o_striking:0 "izbitor"
+ o_cobra:0 "Cobra"
+ 
+ #USA historical
+ o_musketeer:0 "Operațiunea Muschetar" #Philippines
+ o_diplomat:0 "Operațiunea Diplomat"
+
+ #South Pacific
+ o_cartwheel:0 "Operațiunea Cartwheel"
+ o_chronicle:0 "Operațiunea Cronica"
+ o_postern:0 "Afișe de operațiuni"
+ o_blissful:0 "Operațiunea Fericit"
+ o_dexterity:0 "Operațiunea Dexteritate"
+ o_cleanslate:0 "Operațiunea Cleanslate"
+ o_cyclone:0 "Operațiunea Ciclon"
+ o_oboe:0 "Operațiunea Oboe"
+ o_watchtower:0 "Operațiunea Turnul de veghe" #Guadalcanal
+
+ #central pacific
+ o_detachment:0 "Operațiunea Detașament" #Iwo Jima
+ o_flintlock:0 "Operațiunea Flintlock" # marshall islands
+ o_catchpole:0 "Operațiunea Catchpole" #Eniwetok
+ o_forager:0 "Operațiunea Forager" #Marianas
+ o_galvanic:0 "Operațiunea Galvanic" #gilberts
+ o_iceberg:0 "Operațiunea Iceberg" #okinawa
+ o_stalemate:0 "Operațiunea Impas" #Peleliu
+
+ o_downfall:0 "Operațiunea Căderea" #invasion of Japan
+ o_olympic:0 "Operațiunea Olimpică"
+ o_coronet:0 "Operațiunea Coronet"
+ o_majestic:0 "Operațiunea Majestic"
+
+ o_cottage:0 "Operațiunea Cabană" #Alaska
+ o_sandcrab:0 "Operațiunea Sandcrab"
+
+ o_causway:0 "Operațiunea Causeway" #Taiwan
+
+ o_avalanche:0 "Operațiunea Avalanșă" #Italy
+ o_giant:0 "Operațiunea Giant"
+ o_buffalo:0 "Operațiunea Bivol"
+
+ o_anvil:0 "Operațiunea Anvil" #south France
+ o_dragoon:0 "Operațiunea Dragon"
+
+ o_roundup:0 "Operațiunea Roundup" #France
+ o_sledgehammer:0 "Operațiunea Barosul"
+ o_overlord:0 "Operațiunea Overlord"
+
+ o_blackstone:0 "Operațiunea Blackstone"
+ o_brushwood:0 "Operațiunea Brushwood"
+ o_goalpost:0 "Operațiunea Goalpost"
+
+ ###British
+
+ #Historical
+ o_abstention:0 "Operațiunea Abținere"
+
+ o_acrobat:0 "Operațiunea Acrobat" #Nafrica
+ o_agreement:0 "Acord de operare"
+ o_daffodil:0 "Operațiunea Narcisa"
+ o_snowdrop:0 "Operațiunea Ghiocel"
+ o_battleaxe:0 "Operațiunea Battleaxe"
+ o_brevity:0 "Operațiunea Scuritate"
+ o_compass:0 "Operațiunea Busolă"
+ o_crusader:0 "Operațiunea Crusader"
+ o_guillotine:0 "Operațiunea Ghilotină"
+ o_lightfoot:0 "Operațiunea Lightfoot"
+ o_supercharge:0 "Operațiunea Supercharge"
+ o_pugilist:0 "Operațiunea Pugilist"
+ o_vulcan:0 "Operațiunea Vulcan"
+
+ o_torch:0 "Operațiunea Torță" #Morroco
+
+ o_jubilee:0 "Operațiunea Jubilee" #France
+ o_bluecoat:0 "Operațiunea Bluecoat"
+ o_Astonia:0 "Operațiunea Astonia"
+ o_charnwood:0 "Operațiunea Charnwood"
+ o_epsom:0 "Operațiunea Epsom"
+ o_goodwood:0 "Operațiunea Goodwood"
+ o_greenline:0 "Operațiunea Greenline"
+ o_pomegranate:0 "Operațiunea Rodia"
+ o_totalize:0 "Operațiunea Totalizare"
+
+ o_plunder:0 "Operațiunea Plunder" #Germany
+ o_varsity:0 "Operațiunea Varsity"
+
+ o_accolade:0 "Operațiunea Accolade" #East Med
+ o_exporter:0 "Operațiunea Exportator"
+ o_mandibles:0 "Operațiunea mandibulelor"
+ o_manna:0 "Operațiunea Mana"
+
+ o_baytown:0 "Operațiunea Baytown" #Italy
+ o_slapstick:0 "Operațiunea Slapstick"
+ o_chesterfield:0 "Operațiunea Chesterfield"
+ o_diadem:0 "Operațiunea Diadem"
+ o_encore:0 "Operațiunea Encore"
+ o_husky:0 "Operațiunea Husky" # Sicily
+ o_shingle:0 "Operațiunea șindrilă"
+ o_olive:0 "Operațiunea Măsline"
+
+ o_anakim:0 "Operațiunea Anakim" #India/Burma
+ o_capital:0 "Operațiunea Capital"
+ o_dracula:0 "Operațiunea Dracula"
+ o_longcloth:0 "Operațiunea Longcloth"
+ o_talon:0 "Operațiunea Talon"
+ o_thursday:0 "Operațiunea de joi"
+
+ o_krohcol:0 "Operațiunea Krohcol" #Thailand
+ o_matador:0 "Operațiunea Matador"
+
+ o_countenance:0 "Operațiunea Face" #Iran
+
+ o_zipper:0 "Operațiunea Fermoar" #Malaya
+ o_broadsword:0 "Operațiunea Broadsword"
+
+ o_fork:0 "Operațiunea Furcă" #Iceland
+ o_primrose:0 "Operațiunea Primrose" #Norway
+ o_r4:0 "R 4" #Norway
+
+ o_infatuate:0 "Operațiunea Infatuate" #Netherlands
+ o_comet:0 "Operațiunea Comet"
+ o_market_garden:0 "Operațiunea Market Garden"
+
+ o_constellation:0 "Constelaţie"
+ o_clipper:0 "Maşină de tuns"
+ o_aintree:0 "Aintree"
+ o_fusilade:0 "Împuşcătură"
